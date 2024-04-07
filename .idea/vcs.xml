@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ADX Function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Alpha Vantage Template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bollinger Bands" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bollinger Bands Backtester" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bollinger Bands Function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EMA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EMA Backtester Class" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EMA Crossover" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fibonacci Retracement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MACD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MACD Backtester Class" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MACD Function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pivot Points" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RSI &amp; MACD " vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RSI Function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RSI Strategy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RSI-Backtester-Class" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RSI-Function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Renko Chart " vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SMA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SMA Backtester" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SMA Optimization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stochastic OSC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stochastic Osc Backtester" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Vectorized SMA" vcs="Git" />
+  </component>
+</project>
